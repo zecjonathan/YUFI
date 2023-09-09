@@ -6,7 +6,7 @@ This is work in progress
 ### Instalation:
 
 Open SwiftPlaygrounds or Xcode and simply import the .swiftpm file.
-The programm is written in SwiftUI amd does not work with UIKit.
+The programm is written in SwiftUI and does not work with UIKit.
 
 ### License externals:
 
